@@ -26,7 +26,10 @@ protected void onCreate(Bundle savedInstanceState) {
     }
 ```
 
+Credits
+-------
 
+Author: [Ahmed Faisal](https://github.com/afrussel)
 
 
 
