@@ -1,5 +1,6 @@
 # Android Status bar color change
 Custom Status bar with gradient color
+This code is working from API 21 
 
 Usage
 -----
