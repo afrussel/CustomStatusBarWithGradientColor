@@ -2,4 +2,4 @@
 Custom Status bar with gradient color
 
 
-![screenshot](https://raw.github.com/jgilfelt/SystemBarTint/master/screenshot.png "screenshot")
+![screenshot](https://github.com/afrussel/CustomStatusBarWithGradientColor/blob/master/status_bar_gradient_color.png "screenshot")
